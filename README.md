@@ -1,16 +1,8 @@
 # quiz_app
 
-app that asks some true/false questions and keeps the users score as they go along. 
+App that asks some true/false questions and keeps the users score as they go along. Created as part of a Udemy course in which I attempt and succeed to learn flutter. 
 
-## Getting Started
+## final product:
+![image](https://user-images.githubusercontent.com/79337953/130135591-6406ac23-b116-4670-b99d-fcabb6d38985.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Also worthy to note that I added my own custom android skin. I like the flatter design here as opposed to the stock photo. It more resembles the IOS emulators now. 
